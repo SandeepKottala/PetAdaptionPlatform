@@ -110,10 +110,5 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 Thank you for exploring PetMate! Feel free to connect for any suggestions or feedback.
 
