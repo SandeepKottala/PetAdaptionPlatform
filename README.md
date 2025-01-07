@@ -13,8 +13,7 @@ Welcome to **PetMate**, a full-stack web application designed to simplify the pe
 5. [Setup Instructions](#setup-instructions)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
-8. [License](#license)
-
+   
 ---
 
 ## Project Overview
